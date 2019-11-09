@@ -1,0 +1,176 @@
+Tower says: Baloon#B1(0) registered to weather tower.
+Tower says: Baloon#B2(1) registered to weather tower.
+Tower says: JetPlane#J1(2) registered to weather tower.
+Tower says: Helicopter#H1(3) registered to weather tower.
+Tower says: Helicopter#H2(4) registered to weather tower.
+Tower says: Helicopter#H3(5) registered to weather tower.
+Tower says: Baloon#B3(6) registered to weather tower.
+Tower says: JetPlane#J2(7) registered to weather tower.
+Tower says: Helicopter#H4(8) registered to weather tower.
+Baloon#B1(0): Are we inside a cloud or what ? it's smoky up here
+Baloon#B2(1): It's snowing. We're gonna crash
+JetPlane#J1(2): Love it when it snow
+Helicopter#H1(3): Oh the fog man is here
+Helicopter#H2(4):  My rotor is going to freeze!
+Helicopter#H3(5): Oh the fog man is here
+Baloon#B3(6): It's snowing. We're gonna crash
+JetPlane#J2(7): Sunny day clear skies whoop!
+Helicopter#H4(8): This rain is distrcacting
+Baloon#B1(0): Ever tasted some rain water? open your mouth
+Baloon#B2(1): Ever tasted some rain water? open your mouth
+JetPlane#J1(2): Sunny day clear skies whoop!
+Helicopter#H1(3): Oh the fog man is here
+Helicopter#H2(4): Oh the fog man is here
+Helicopter#H3(5): Oh the fog man is here
+Baloon#B3(6): Ever tasted some rain water? open your mouth
+JetPlane#J2(7): It's raining. Better watch out for lightings
+Helicopter#H4(8): Oh the fog man is here
+Baloon#B1(0): It's snowing. We're gonna crash
+Baloon#B1(0): landing
+Tower says: Baloon#B1(0) unregistered from weather tower.
+JetPlane#J1(2): It's raining. Better watch out for lightings
+Helicopter#H1(3): Oh the fog man is here
+Helicopter#H2(4): Oh the fog man is here
+Helicopter#H3(5): Oh the fog man is here
+Baloon#B3(6): It's snowing. We're gonna crash
+Baloon#B3(6): landing
+Tower says: Baloon#B3(6) unregistered from weather tower.
+Helicopter#H4(8): Oh the fog man is here
+Baloon#B2(1): It's snowing. We're gonna crash
+JetPlane#J1(2): I can hardly see ..
+Helicopter#H1(3): This is hot
+Helicopter#H2(4): Oh the fog man is here
+Helicopter#H3(5): Oh the fog man is here
+JetPlane#J2(7): I can hardly see ..
+Helicopter#H4(8): Oh the fog man is here
+Baloon#B2(1): Ever tasted some rain water? open your mouth
+JetPlane#J1(2): Sunny day clear skies whoop!
+Helicopter#H1(3): This rain is distrcacting
+Helicopter#H2(4): This is hot
+Helicopter#H3(5): Oh the fog man is here
+JetPlane#J2(7): I can hardly see ..
+Helicopter#H4(8): Oh the fog man is here
+Baloon#B2(1): It's snowing. We're gonna crash
+JetPlane#J1(2): It's raining. Better watch out for lightings
+Helicopter#H1(3): Oh the fog man is here
+Helicopter#H2(4): This rain is distrcacting
+Helicopter#H3(5): This is hot
+JetPlane#J2(7): I can hardly see ..
+Helicopter#H4(8): Oh the fog man is here
+Baloon#B2(1): Ever tasted some rain water? open your mouth
+JetPlane#J1(2): I can hardly see ..
+Helicopter#H1(3): Oh the fog man is here
+Helicopter#H2(4): Oh the fog man is here
+Helicopter#H3(5): This rain is distrcacting
+JetPlane#J2(7): I can hardly see ..
+Helicopter#H4(8): This is hot
+Baloon#B2(1): It's snowing. We're gonna crash
+Baloon#B2(1): landing
+Tower says: Baloon#B2(1) unregistered from weather tower.
+Helicopter#H1(3): Oh the fog man is here
+Helicopter#H2(4): Oh the fog man is here
+Helicopter#H3(5): Oh the fog man is here
+JetPlane#J2(7): I can hardly see ..
+Helicopter#H4(8): This rain is distrcacting
+JetPlane#J1(2): I can hardly see ..
+Helicopter#H1(3): This is hot
+Helicopter#H2(4): Oh the fog man is here
+Helicopter#H3(5): Oh the fog man is here
+JetPlane#J2(7): Sunny day clear skies whoop!
+Helicopter#H4(8): Oh the fog man is here
+JetPlane#J1(2): I can hardly see ..
+Helicopter#H1(3): This rain is distrcacting
+Helicopter#H2(4): This is hot
+Helicopter#H3(5): Oh the fog man is here
+JetPlane#J2(7): It's raining. Better watch out for lightings
+Helicopter#H4(8): Oh the fog man is here
+JetPlane#J1(2): Sunny day clear skies whoop!
+Helicopter#H1(3): Oh the fog man is here
+Helicopter#H2(4): This rain is distrcacting
+Helicopter#H3(5): Oh the fog man is here
+JetPlane#J2(7): I can hardly see ..
+Helicopter#H4(8): Oh the fog man is here
+JetPlane#J1(2): It's raining. Better watch out for lightings
+Helicopter#H1(3): Oh the fog man is here
+Helicopter#H2(4): Oh the fog man is here
+Helicopter#H3(5): This is hot
+JetPlane#J2(7): I can hardly see ..
+Helicopter#H4(8): This is hot
+JetPlane#J1(2): I can hardly see ..
+Helicopter#H1(3): Oh the fog man is here
+Helicopter#H2(4): Oh the fog man is here
+Helicopter#H3(5): This rain is distrcacting
+JetPlane#J2(7): I can hardly see ..
+Helicopter#H4(8): This rain is distrcacting
+JetPlane#J1(2): I can hardly see ..
+Helicopter#H1(3): This is hot
+Helicopter#H2(4): Oh the fog man is here
+Helicopter#H3(5): Oh the fog man is here
+JetPlane#J2(7): I can hardly see ..
+Helicopter#H4(8): Oh the fog man is here
+JetPlane#J1(2): I can hardly see ..
+Helicopter#H1(3): This rain is distrcacting
+Helicopter#H2(4): This is hot
+Helicopter#H3(5): Oh the fog man is here
+JetPlane#J2(7): I can hardly see ..
+Helicopter#H4(8): Oh the fog man is here
+JetPlane#J1(2): Sunny day clear skies whoop!
+Helicopter#H1(3): Oh the fog man is here
+Helicopter#H2(4): This rain is distrcacting
+Helicopter#H3(5): Oh the fog man is here
+JetPlane#J2(7): Sunny day clear skies whoop!
+Helicopter#H4(8): Oh the fog man is here
+JetPlane#J1(2): It's raining. Better watch out for lightings
+Helicopter#H1(3): Oh the fog man is here
+Helicopter#H2(4): Oh the fog man is here
+Helicopter#H3(5): Oh the fog man is here
+JetPlane#J2(7): It's raining. Better watch out for lightings
+Helicopter#H4(8): This is hot
+JetPlane#J1(2): I can hardly see ..
+Helicopter#H1(3): Oh the fog man is here
+Helicopter#H2(4): Oh the fog man is here
+Helicopter#H3(5): Oh the fog man is here
+JetPlane#J2(7): I can hardly see ..
+Helicopter#H4(8): This rain is distrcacting
+JetPlane#J1(2): I can hardly see ..
+Helicopter#H1(3): This is hot
+Helicopter#H2(4): Oh the fog man is here
+Helicopter#H3(5): This is hot
+JetPlane#J2(7): I can hardly see ..
+Helicopter#H4(8): Oh the fog man is here
+JetPlane#J1(2): I can hardly see ..
+Helicopter#H1(3): This rain is distrcacting
+Helicopter#H2(4): This is hot
+Helicopter#H3(5): This rain is distrcacting
+JetPlane#J2(7): I can hardly see ..
+Helicopter#H4(8): Oh the fog man is here
+JetPlane#J1(2): Sunny day clear skies whoop!
+Helicopter#H1(3): Oh the fog man is here
+Helicopter#H2(4): This rain is distrcacting
+Helicopter#H3(5): Oh the fog man is here
+JetPlane#J2(7): I can hardly see ..
+Helicopter#H4(8): Oh the fog man is here
+JetPlane#J1(2): It's raining. Better watch out for lightings
+Helicopter#H1(3): Oh the fog man is here
+Helicopter#H2(4): Oh the fog man is here
+Helicopter#H3(5): Oh the fog man is here
+JetPlane#J2(7): I can hardly see ..
+Helicopter#H4(8): This is hot
+JetPlane#J1(2): I can hardly see ..
+Helicopter#H1(3): Oh the fog man is here
+Helicopter#H2(4): Oh the fog man is here
+Helicopter#H3(5): Oh the fog man is here
+JetPlane#J2(7): Sunny day clear skies whoop!
+Helicopter#H4(8): This rain is distrcacting
+JetPlane#J1(2): I can hardly see ..
+Helicopter#H1(3): This is hot
+Helicopter#H2(4): Oh the fog man is here
+Helicopter#H3(5): Oh the fog man is here
+JetPlane#J2(7): It's raining. Better watch out for lightings
+Helicopter#H4(8): Oh the fog man is here
+JetPlane#J1(2): I can hardly see ..
+Helicopter#H1(3): This rain is distrcacting
+Helicopter#H2(4): This is hot
+Helicopter#H3(5): Oh the fog man is here
+JetPlane#J2(7): I can hardly see ..
+Helicopter#H4(8): Oh the fog man is here
